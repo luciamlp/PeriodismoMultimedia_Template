@@ -11,7 +11,7 @@ Univesidad de Granada
 
 **Titulo** : _______
 
-**Autor(es)** ______________
+**Autor(es)** Lucía María López Peñalver y Darío Fernández 
 
 **Resumen** : _________
 
